@@ -15,14 +15,23 @@ In this project we are going to Explore the insights of Amazon UK Products Datas
 # The Objective of this project is
 
 Identifiying the bestSellers products and Non bestSeller products.
+
 Idenfitying the higest Selling products on Amazon.
+
 Identifying the product category which generates the high volume of money.
+
 Identifying the highly rated products.
+
 Identifyinng which are the products amazon having high in number.
 
 # The following topics are covered in this tutorial:
+
 Downloading a dataset from kaggle.
+
 Data preparation and cleaning with Pandas.
+
 Open-ended exploratory analysis and visualization.
+
 Asking and answering interesting questions.
+
 Summarizing inferences and drawing conclusions.
