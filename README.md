@@ -35,3 +35,7 @@ Open-ended exploratory analysis and visualization.
 Asking and answering interesting questions.
 
 Summarizing inferences and drawing conclusions.
+
+# NOTE:
+To see the visualization use https://nbviewer.org/ 
+and put the github repo in the above link nbviewer :- https://github.com/mehulrathore07/Amazon_uk_product_EDA/blob/main/Amazon%20UK%20Product%20EDA.ipynb
